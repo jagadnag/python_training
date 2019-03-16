@@ -1,0 +1,3 @@
+show runn | in logging
+show runn | in ntp
+show runn | in snmp
